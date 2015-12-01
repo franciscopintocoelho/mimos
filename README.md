@@ -1,0 +1,2 @@
+# mimos
+phonegap app test
